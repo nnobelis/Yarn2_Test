@@ -1,0 +1,13 @@
+{
+  "name": "Yarn2_Test",
+  "version": "1.0.0",
+  "description": "A test project for yarn2",
+  "main": "index.js",
+  "repository": "https://github.com/nnobelis",
+  "author": "Nicolas Nobelis",
+  "license": "MIT",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "npm-package-example": "^1.1.2"
+  }
+}
